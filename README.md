@@ -1,4 +1,5 @@
 # LAVA: Large Scale Automated Vulnerability Addition
+大规模向程序中植入恶意程序
 
 Evaluating and improving bug-finding tools is currently difficult due to
 a shortage of ground truth corpora (i.e., software that has known bugs
